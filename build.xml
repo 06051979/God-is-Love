@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="4.0" encoding="UTF-8"
+
 <project name="gitblit-powertools" default="build" xmlns:mx="antlib:org.moxie">
 
 	<!--
@@ -151,7 +152,7 @@
 	</target>
 
 	<!--
-		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ In The Power of His Name Jesus Christ.......... ++++++++++++++++++++±±±+±+±±+±±±
 		Build and deploy to the registry directory without tagging.
 		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 	-->
